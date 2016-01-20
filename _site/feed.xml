@@ -6,8 +6,8 @@
 </description>
     <link>http://mindcrafts.co/</link>
     <atom:link href="http://mindcrafts.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 16:13:23 +0800</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 16:13:23 +0800</lastBuildDate>
+    <pubDate>Wed, 20 Jan 2016 17:12:40 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 17:12:40 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -443,33 +443,25 @@
 
 &lt;h1 id=&quot;version-1&quot;&gt;Version 1&lt;/h1&gt;
 
+&lt;p&gt;采用问答社区的产品模型，用户对分类进行订阅，通过Feed首页获得最新最热的内容，社区频道的设计回归到传统的论坛形式，并做了相应移动化和简化&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/img/product-yinfu-v1.png&quot; alt=&quot;YUYIN-VERSION-1&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;user test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabala&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;把用户可能会遇到问题进行归纳整理，用户以关注的方式，获取有用的内容&lt;/p&gt;
-&lt;/blockquote&gt;
 
 &lt;h1 id=&quot;version-2&quot;&gt;Version 2&lt;/h1&gt;
 
+&lt;p&gt;对社区概念进行了强化，用户可以在应用首页直接查看所有的热门社区板块，并进行定制化修改，发现频道因内容过于繁杂，故进行了纵深折叠&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/img/product-yinfu-v2.png&quot; alt=&quot;YUYIN-VERSION-2&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;user test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabala&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;把用户可能会遇到问题进行归纳整理，用户以关注的方式，获取有用的内容&lt;/p&gt;
-&lt;/blockquote&gt;
-
 &lt;h1 id=&quot;version-3&quot;&gt;Version 3&lt;/h1&gt;
+
+&lt;p&gt;对产品模型进行了调整，强调互与助的共享经济概念，用户可以利用自己闲暇时间，成为一名热心的帮助者，同时也可以向他人求助，水晶奖赏的概念进入，是对用户行为的一种激励&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-yinfu-v3.png&quot; alt=&quot;YUYIN-VERSION-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;version-4---final&quot;&gt;Version 4 - Final&lt;/h1&gt;
+
+&lt;p&gt;把首页变成一种互助与社区内容的聚合页，优先为用户呈现一些优质的互助案例，帮助用户快速理解互助的概念，社区变成了一个更大独立的模块，供更多人在这里互动&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-yinfu-v4.png&quot; alt=&quot;YUYIN-VERSION-4&quot; /&gt;&lt;/p&gt;
 </description>
@@ -486,15 +478,17 @@
         <title>HUJIA Product Design</title>
         <description>&lt;p&gt;互加是一款社交产品，不同于其他社交产品，它的玩法是通过与别人交换微信号，来完成社交，它的产品结构非常简单，甚至没有好友功能和聊天功能，在这里你要做的仅仅是，展示你自己，然后快速跟别人互加微信。&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/cn/app/quan-min-hu-jia-quan-min-shou/id995911672?mt=8&quot;&gt;AppStore Link&lt;/a&gt;&lt;/p&gt;
+
 &lt;h1 id=&quot;version-1&quot;&gt;Version 1&lt;/h1&gt;
 
-&lt;p&gt;一个最小化的微信交换原型&lt;/p&gt;
+&lt;p&gt;一个最小化的微信交换原型，通过标签归纳用户，用户可以对感兴趣者进行出价，若对方对出价满意，则进行回价，微信交换的流程既可完成，双方可获得彼此的微信号，另外，通过一个简单的评价系统杜绝社交中的投机者。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-hujia-v1.png&quot; alt=&quot;HUJIA-VERSION-1&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;version-2&quot;&gt;Version 2&lt;/h1&gt;
 
-&lt;p&gt;卡片系统&lt;/p&gt;
+&lt;p&gt;进入了一个丰富的卡片系统，用户可以通过创建不同类型的卡片进行自我展示，也可以借此发现感兴趣的他人，视频卡片的引入，让更多样化的社交表达成为了可能。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-hujia-v2.png&quot; alt=&quot;HUJIA-VERSION-2&quot; /&gt;&lt;/p&gt;
 
@@ -504,16 +498,15 @@
 
 &lt;h1 id=&quot;version-3&quot;&gt;Version 3&lt;/h1&gt;
 
-&lt;p&gt;微信交换变成直接发红包获得&lt;/p&gt;
+&lt;p&gt;用红包的概念包装了严肃的金币交易，用户可以对自己的微信号进行明码标价，对方只需要发送等值的红包即可获得微信号，用户依然可以在微信中屏蔽不正常的骚扰者。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-hujia-v3.png&quot; alt=&quot;HUJIA-VERSION-3&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;version-4&quot;&gt;Version 4&lt;/h1&gt;
 
-&lt;p&gt;视频直播&lt;/p&gt;
+&lt;p&gt;在产品中引入了视频直播的概念，进一步强化社交的真实性和互动性&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/product-hujia-v4.png&quot; alt=&quot;HUJIA-VERSION-4&quot; /&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Wed, 01 Jul 2015 15:18:15 +0800</pubDate>
         <link>http://mindcrafts.co/product/2015/07/01/HUJIA.html</link>

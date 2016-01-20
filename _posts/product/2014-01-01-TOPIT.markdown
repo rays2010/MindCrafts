@@ -9,17 +9,17 @@ cover: "img/product-topit-cover.png"
 
 优美图是一个基于审美的图片分享社区
 
-[AppStore下载链接](https://itunes.apple.com/cn/app/you-mei-tu-bu-zhi-yu-zhao/id583701883?mt=8)
+[AppStore Link](https://itunes.apple.com/cn/app/you-mei-tu-bu-zhi-yu-zhao/id583701883?mt=8)
 
 #TOPIT 5.0(DEMO)
 
-主题专辑
+这是一个未实现的概念设计，重新回归图片收集的原点，讲产品中最小的颗粒单位变成图片专辑，用户通过专辑进行内容生产与传播。
 
 ![TOPIT-VERSION-5](/img/product-topit-v5.png)
 
 #TOPIT 4.0
 
-兴趣订阅
+为了解决用户首页内容同质化严重的问题，加入了基于标签订阅的功能，原本单纯的图片呈现的首页，也变成了一个内容分发出口，用户订阅喜欢的标签后，可以在首页看到想要的图片、专辑、话题等内容，另外用户还可以基于标签活动进行内容创作
 
 ![TOPIT-VERSION-4](/img/product-topit-v4.png)
 
@@ -31,13 +31,13 @@ cover: "img/product-topit-cover.png"
 
 ![TOPIT-VERSION-3](/img/product-topit-v3.png)
 
-兴趣小组
+引入兴趣小组的概念，把原本只能在单张图片下评论的用户孤岛连接起来，小组的形态更像是传统的论坛，但是强化了图片的分享与获得，此外为了控制前期的内容质量，小组的创建权限做了相应的限制
 
 #TOPIT 2.0
 
-![TOPIT-VERSION-2](/img/product-topit-v2.png)
+优美图里程碑式的版本，更多的在做一些夯实地基类的工作，对原本的产品结构进行了梳理，调整侧重于产品的体验。
 
-重构体验优化
+![TOPIT-VERSION-2](/img/product-topit-v2.png)
 
 #Demo 1
 

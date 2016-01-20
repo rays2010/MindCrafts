@@ -11,7 +11,7 @@ cover: "img/product-yuyin-cover.png"
 
 #WebSite
 
-网站
+余音的网站端基于WordPress进行了二次开发，加入了社会化的关注功能，许多模块的设计更多的侧重于内容的运营与用户激励
 
 [VISIT: http://yuyin.fm/](http://yuyin.fm/)
 
@@ -19,7 +19,7 @@ cover: "img/product-yuyin-cover.png"
 
 #GoodNight Music
 
-晚安曲
+晚安曲是余音网的一个子栏目，原本是每天通过微信公众号进行文字和音乐推荐的固定界面，最内容积累到一定量后，对起进行了产品化
 
 [VISIT: http://yuyin.fm/goodnight/](http://yuyin.fm/goodnight/)
 
