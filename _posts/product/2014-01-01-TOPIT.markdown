@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "TOPIT Product Design"
+excerpt: "Share your picture taste with love"
+date:   2014-01-01 15:18:15 +0800
+categories: product
+cover: "img/product-topit-cover.png"
+---
+
+优美图是一个基于审美的图片分享社区
+
+[AppStore下载链接](https://itunes.apple.com/cn/app/you-mei-tu-bu-zhi-yu-zhao/id583701883?mt=8)
+
+#TOPIT 5.0(DEMO)
+
+主题专辑
+
+![TOPIT-VERSION-5](/img/product-topit-v5.png)
+
+#TOPIT 4.0
+
+兴趣订阅
+
+![TOPIT-VERSION-4](/img/product-topit-v4.png)
+
+#WireFrame
+
+[![TOPIT-wireframe](/img/product-topit-wireframe.png)](/img/product-topit-wireframe.png)
+
+#TOPIT 3.0
+
+![TOPIT-VERSION-3](/img/product-topit-v3.png)
+
+兴趣小组
+
+#TOPIT 2.0
+
+![TOPIT-VERSION-2](/img/product-topit-v2.png)
+
+重构体验优化
+
+#Demo 1
+
+心动
+
+![TOPIT-DEMO-1](/img/product-topit-d1.png)
+
+#Demo 2
+
+套图
+
+![TOPIT-DEMO-2](/img/product-topit-d2.png)

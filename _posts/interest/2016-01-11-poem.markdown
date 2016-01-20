@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Poem"
+date:   2016-01-12 15:18:15 +0800
+cover: "interest-poem-cover.png"
+categories: interest
+---
+
+照片

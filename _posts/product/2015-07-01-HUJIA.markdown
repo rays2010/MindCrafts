@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "HUJIA Product Design"
+excerpt: "Using wechat number building your social network"
+date:   2015-07-01 15:18:15 +0800
+categories: product
+cover: "img/product-hujia-cover.png"
+---
+
+互加是一款社交产品，不同于其他社交产品，它的玩法是通过与别人交换微信号，来完成社交，它的产品结构非常简单，甚至没有好友功能和聊天功能，在这里你要做的仅仅是，展示你自己，然后快速跟别人互加微信。
+
+#Version 1
+
+一个最小化的微信交换原型
+
+![HUJIA-VERSION-1](/img/product-hujia-v1.png)
+
+#Version 2
+
+卡片系统
+
+![HUJIA-VERSION-2](/img/product-hujia-v2.png)
+
+卡片系统说明
+
+![HUJIA-VERSION-2](/img/product-hujia-v2-1.png)
+
+#Version 3
+
+微信交换变成直接发红包获得
+
+![HUJIA-VERSION-3](/img/product-hujia-v3.png)
+
+#Version 4
+
+视频直播
+
+![HUJIA-VERSION-4](/img/product-hujia-v4.png)
+
+

@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "YINFU Product Design"
+excerpt: "A helpful platform with some lovely people"
+date:   2015-09-01 15:18:15 +0800
+categories: product
+cover: "img/product-yinfu-cover.png"
+---
+
+YINFU is helpful plaform base on network, user either ask for help or help othe people.
+
+音符是一个基于网络的心理互助平台，用户在这里既可以向别人求助，也可以以志愿者的身份帮助别人。
+
+#Version 1
+
+![YUYIN-VERSION-1](/img/product-yinfu-v1.png)
+
+> user test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabala
+
+> 把用户可能会遇到问题进行归纳整理，用户以关注的方式，获取有用的内容
+
+#Version 2
+
+![YUYIN-VERSION-2](/img/product-yinfu-v2.png)
+
+> user test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabalauser test balabala
+
+> 把用户可能会遇到问题进行归纳整理，用户以关注的方式，获取有用的内容
+
+#Version 3
+
+![YUYIN-VERSION-3](/img/product-yinfu-v3.png)
+
+#Version 4 - Final
+
+![YUYIN-VERSION-4](/img/product-yinfu-v4.png)

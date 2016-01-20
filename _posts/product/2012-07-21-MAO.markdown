@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "MAO2FM Product Design & Develope"
+excerpt: "A niche music share blog"
+date:   2013-10-31 15:18:15 +0800
+categories: product
+cover: "img/product-mao-cover.png"
+---
+
+#产品说明
+
+猫耳电台是一个由多人撰写的小众音乐推荐博客
+
+![MAO](/img/product-mao-main.png)

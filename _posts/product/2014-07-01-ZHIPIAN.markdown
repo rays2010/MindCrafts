@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "ZHIPIAN Product Design & Develope"
+excerpt: "An simple writing community, start your word adventure"
+date:   2014-07-01 15:18:15 +0800
+categories: product
+cover: "img/product-zhipian-cover.png"
+---
+
+纸片是一个简单的文字写作平台
+
+#Web
+
+![ZHIPIAN-website](/img/product-zhipian-web.png)
+
+#Mobile
+
+![ZHIPIAN-mobile](/img/product-zhipian-mobile.png)

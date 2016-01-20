@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>从SGML到Web标准</title>
+  <meta name="description" content="很久很久以前，好吧也没有那么久，也就是上个世纪八十年代左右，人们为了更好的描述计算机中的文本，标准化了一种标记语言名，叫标准通用标记语言 （Standard Generalized Markup Language，简称SGML）">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://mindcrafts.co/article/2012/04/04/form-sgml-to-web-standard.html">
+  <link rel="alternate" type="application/rss+xml" title="MindCrafts.co" href="http://mindcrafts.co/feed.xml">
+</head>
+
+
+  <body>
+    
+    <nav class="site-nav-mini">
+    <a class="back" href="/"><img src="/img/logo-mini.png" alt=""></a>
+    <ul>
+    
+      
+    
+      
+      <li
+      
+      >
+      <a class="page-link" href="/article/">Article</a>
+      <i></i>
+      </li>
+      
+    
+      
+    
+      
+      <li
+      
+      >
+      <a class="page-link" href="/">Product</a>
+      <i></i>
+      </li>
+      
+    
+      
+      <li
+      
+      >
+      <a class="page-link" href="/interest/">Interest</a>
+      <i></i>
+      </li>
+      
+    
+      
+    
+    </ul>
+</nav>
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">从SGML到Web标准</h1>
+    <p class="post-meta"><time datetime="2012-04-04T15:18:15+08:00" itemprop="datePublished">Apr 4, 2012</time></p>
+  </header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content" itemprop="articleBody">
+    <p>很久很久以前，好吧也没有那么久，也就是上个世纪八十年代左右，人们为了更好的描述计算机中的文本，标准化了一种标记语言名，叫标准通用标记语言 （Standard Generalized Markup Language，简称SGML）</p>
+
+<p>简单点说，SGML把文本标记为“结构”和“内容”两部分，前者是一个文档的骨架，可以用来很好的组织文档，后者则是计算机程序或数据库可以直接操作的对象。</p>
+
+<p>但是SGML太复杂了，因而在当时很难得到普及。</p>
+
+<p>1982年，万维网之父蒂姆•伯纳斯-李（Tim Berners-Lee）简化了SGML，并利用当时流行的超文本（Hypertext）的概念发明了超文本标记语言（HyperText Markup Language，简称HTML）</p>
+
+<p>此外，蒂姆•伯纳斯-李还有很多有名气的头衔，比如他创建了超文本传输协议（HyperText Transfer Protocol，简称HTTP），发明了第一个Web浏览器（WorldWideWeb），建立了万维网联盟（World Wide Web Consortium，简称W3C）</p>
+
+<p>随后，HTML从2.0开始，依次经历了3.2，3.0，4.01几个W3C推荐的标准版本，HTML之所以没有1.0版本，是因为当时有很多不同的版本，比如，后来网景公司的创始人，那时的在校大学生马克•安德生，就在他的Mosaic浏览器首先加入了img标记，用于在Web页面上浏览图，显然这与蒂姆•伯纳斯-李HTML出版是不一致的。</p>
+
+<p>然而随着HTML的广泛应用，W3C也发现了它的一些问题，比如HTML提供的语义标签太少，无法应对多个领域的资料解释；存在效率问题，你必须下载了完整的文档才能对其检索；扩充性、弹性、易读性差。</p>
+
+<p>于是，可扩展标记语言（eXtensible Markup Language，简称XML）在这时应运而生，作为SGML的另一个简化版本，XML具有语法严谨，用法简单的特点，它的用途与HTML也不一样，HTML主要是用来数据的呈现，而XML则是被设计为用来传输和携带数据信息。</p>
+
+<p>假如你刚开始学习使用HTML编写网页，你可能会发现，有时候即便忘记了关闭一些标签，网页也可以正常显示，实际上，在HTML中确实可以这么做，但面对某些态度坚决的浏览器，你可能会遇到点小问题——这些家伙拒绝显示这些页面，这就使得一些页面在跨浏览器显示上出现了不一致的情况。</p>
+
+<p>可扩展超文本标记语言（eXtensible HyperText Markup Language，XHTML）的出现解决了这种不一致的情况，因为它的定义里一开始就强调，所有的标签（即便是空标签）都要关闭。</p>
+
+<p>你或许注意到了，XHTML与XML里打头的X是同一个X（可扩展），根据W3C官方的解释，XHTML是一个用XML语法重新阐述的的语言，它的扩展性就在于可以很好的与其他基于XML的语言、应用程序和协议进行交互。</p>
+
+<p>XHTML实际上是一个过渡技术，它一方面可以向前兼容简单的HTML语言，另一方面向强大严谨的XML语言靠拢，以弥补 XML无法完全取代HTML的空缺。</p>
+
+<p>截止目前，XHTML共有以下几个版本</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>XHTML 1.0 Strict
+XHTML 1.0 Transitional
+XHTML 1.0 Frameset
+XHTML 1.1
+XHTML Basic
+</code></pre>
+</div>
+
+<p>XHTML 1.0 Transitional类型也是当前被使用最广泛的版本，它对网站的编写规范要求比较宽松，可以很好的承上启下，做到网页的前后兼容，Strict类型则很严格的要求你不得使用表现层的标记和属性，而Frameset类型则用于那些使用元素的文档上。</p>
+
+<p>XHTML 1.1的规范要求与Strict很相似，但还是有点不同，它被计划用来充当将来扩展XHTML家族系列文档类型，它模块化的设计跟容易与其他语言进行整合。XHTML Basic则是一个最小架构的模块，主要用于移动应用程序的开发 。</p>
+
+<p>说到这，我们先转移一下话题，回到上世纪的90年代去看一看。</p>
+
+<p>你或许有所耳闻，那个年代的浏览器市场一直很混乱，这些浏览器制造商一方面认识到支持Web标准的重要性，一方面也不想破坏那些因为专有HTML扩展、错误或不完全的CSS实现等举措而出现的非标准网站。</p>
+
+<p>我们称那些符合W3C规范编写的网站为标准模式，而那些使用老方法制作的非标准网站则是怪异（Quirks）模式。</p>
+
+<p>这样，随着各家的浏览器都开始向Web标准看齐，问题也就出现了：要如何兼顾标准与怪异两种模式？</p>
+
+<p>1998年初，一位英雄用一把利剑漂亮的解决了这个问题，这位英雄名叫Todd Fahrner，是一位用户界面技术专家，这把利剑就是接下来要引出的标准切换开关——DOCTYPE标签。</p>
+
+<p>Fahrner的计策是，如果一个网站以DOCTYPE标签开始，则说明网页的开发者了解Web标准，并打算依照Web标准编写网站，那么浏览器也就使用W3C的规范解析这个页面。反之，如果网站不存在一个DOCTYPE标签，则说明这个网页很可能是用老方法制作的，浏览器会使用怪异模式显示这类网页。</p>
+
+<p>有了DOCTYPE标签，我们终于可以迈出通往Web标准的第一步，结合前面讲的XHTML类型声明，我们可以编写如下代码放在网页的开始：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code> <span class="cp">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</span>
+</code></pre>
+</div>
+
+<p>观察这段代码我们发现，它的构成大体由一个DOCTYPE标签，几个固定格式的关键词（html PUBLIC..），一个表面文档类型的字符串（XHTML 1.0 Transitional），和一个指向对应文档类型的dtd地址。</p>
+
+<p>有了这段代码，我们就可以明确的告诉浏览器，我的网页是遵循W3C规范编写的，采用了过渡类型的编码方式，浏览器也会采用相应的方式对网页准确解析。不过，还没完呢。</p>
+
+<p>紧跟着DOCTYPE标签，我们还添加一个XHTML命名空间（namespace）声明,这个声明需要放在标签中，像这样：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code> <span class="nt">&lt;html</span> <span class="na">xmlns=</span><span class="s">"http://www.w3.org/1999/xhtml"</span> <span class="na">xml:lang=</span><span class="s">"en"</span> <span class="na">lang=</span><span class="s">"en"</span><span class="nt">&gt;</span>
+</code></pre>
+</div>
+
+<p>命名空间声明允许你通过一个在线地址指向来识别你的命名空间，后面出现的两个属性用来表面文档的语言类型，属性是可选的。</p>
+
+<p>然后我们需要声明一下文档所使用的字符集，对于utf-8编码，我们需要这么编写代码，并放置在标签的最开始：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;
+</code></pre>
+</div>
+
+<p>前面这三段代码是一个采用web标准编写的网页所必须有的，而还有一些规范则是需要在实际编码中多加留意，它们可以简明的罗列如下：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>所有的元素和属性名一律采用小写字母
+所有的属性值都需要加引号
+所有的属性都要赋值
+关闭所有标签
+“空”标签用空格和斜杠关闭
+不要在注释体内使用“–”
+对于大于号（&gt;），小于号（&lt;），与号（&amp;）用对应HTML转义字符串表示 
+</code></pre>
+</div>
+
+  </div>
+
+</article>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

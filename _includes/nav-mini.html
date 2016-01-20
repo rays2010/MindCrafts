@@ -1,0 +1,17 @@
+<nav class="site-nav-mini">
+    <a class="back" href="/"><img src="/img/logo-mini.png" alt=""></a>
+    <ul>
+    {% for my_page in site.pages %}
+      {% if my_page.title and my_page.title != 'about' %}
+      <li
+      {% if my_page.url == page.url %}
+      class="current"
+      {% endif %}
+      >
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <i></i>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+</nav>

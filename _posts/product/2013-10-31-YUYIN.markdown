@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "YUYIN Front Design & Develope"
+excerpt: "Remember your life with audio"
+date:   2013-10-31 15:18:15 +0800
+categories: product
+cover: "img/product-yuyin-cover.png"
+---
+
+余音是一个通过声音和文字记录生活的情感社区。
+
+#WebSite
+
+网站
+
+[VISIT: http://yuyin.fm/](http://yuyin.fm/)
+
+![YUYIN](/img/product-yuyin-website.png)
+
+#GoodNight Music
+
+晚安曲
+
+[VISIT: http://yuyin.fm/goodnight/](http://yuyin.fm/goodnight/)
+
+![YUYIN](/img/product-yuyin-goodnight.png)
+
+#MAGAZINE
+
+一周年电子杂志
+
+[VISIT: http://yuyin.fm/maganize/](http://yuyin.fm/maganize/)
+
+![YUYIN](/img/product-yuyin-magazine.png)
