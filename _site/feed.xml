@@ -6,13 +6,39 @@
 </description>
     <link>http://mindcrafts.co/</link>
     <atom:link href="http://mindcrafts.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 13:37:18 +0800</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 13:37:18 +0800</lastBuildDate>
+    <pubDate>Wed, 20 Jan 2016 16:13:23 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 16:13:23 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Photgraphy</title>
-        <description>&lt;p&gt;照片&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/photo/1.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/2.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/3.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/4.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/5.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/6.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/7.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/8.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/9.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/10.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/11.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/12.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/13.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/photo/14.jpg&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 15:18:15 +0800</pubDate>
         <link>http://mindcrafts.co/interest/2016/01/12/photography.html</link>
@@ -25,7 +51,7 @@
     
       <item>
         <title>Design</title>
-        <description>&lt;p&gt;照片&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/interest-design.png&quot; alt=&quot;INTEREST-DESIGN&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 15:18:15 +0800</pubDate>
         <link>http://mindcrafts.co/interest/2016/01/12/design.html</link>
@@ -38,7 +64,13 @@
     
       <item>
         <title>Harmonica</title>
-        <description>&lt;p&gt;照片&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1nuzOEPb&quot;&gt;&lt;img src=&quot;/img/interest-harm-1.png&quot; alt=&quot;harm&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1hrrRx3m&quot;&gt;&lt;img src=&quot;/img/interest-harm-2.png&quot; alt=&quot;harm&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1pKf1Snx&quot;&gt;&lt;img src=&quot;/img/interest-harm-3.png&quot; alt=&quot;harm&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1kTScLr5&quot;&gt;&lt;img src=&quot;/img/interest-harm-4.png&quot; alt=&quot;harm&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 15:18:15 +0800</pubDate>
         <link>http://mindcrafts.co/interest/2016/01/12/harmonica.html</link>
@@ -51,7 +83,237 @@
     
       <item>
         <title>Poem</title>
-        <description>&lt;p&gt;照片&lt;/p&gt;
+        <description>&lt;h1 id=&quot;section&quot;&gt;在北京第一次骑车通勤&lt;/h1&gt;
+
+&lt;p&gt;上班&lt;br /&gt;
+耗时50分钟&lt;br /&gt;
+燃烧300卡路里&lt;br /&gt;
+下班&lt;br /&gt;
+耗时20分钟&lt;br /&gt;
+燃烧0卡路里&lt;br /&gt;
+为什么？&lt;br /&gt;
+我打车回来的&lt;/p&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;需求列表&lt;/h1&gt;
+
+&lt;p&gt;工程师&lt;br /&gt;
+按下一个葫芦&lt;br /&gt;
+浮出&lt;br /&gt;
+六个产品经理&lt;/p&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;主观能动性&lt;/h1&gt;
+
+&lt;p&gt;你跟猫&lt;br /&gt;
+在走廊擦身而过&lt;br /&gt;
+你回头看了眼猫&lt;br /&gt;
+猫没看你&lt;br /&gt;
+径直&lt;br /&gt;
+去拉屎了&lt;/p&gt;
+
+&lt;h1 id=&quot;section-3&quot;&gt;关于相对论的临床反应&lt;/h1&gt;
+
+&lt;p&gt;星期一的早上&lt;br /&gt;
+老王从床上醒过来&lt;br /&gt;
+突然开始徐徐晃动&lt;br /&gt;
+晃动速度由慢到快&lt;br /&gt;
+在五米范围内呈粒子状高速运转&lt;br /&gt;
+三分钟后抵达光速&lt;br /&gt;
+很快&lt;br /&gt;
+老王&lt;br /&gt;
+变成了小王&lt;/p&gt;
+
+&lt;h1 id=&quot;section-4&quot;&gt;周四的早上&lt;/h1&gt;
+
+&lt;p&gt;北京今天下雨了&lt;br /&gt;
+北京像是有几百年没下过雨的样子&lt;br /&gt;
+所有人都撑着伞&lt;br /&gt;
+黑色的&lt;br /&gt;
+彩色的&lt;br /&gt;
+透明的&lt;br /&gt;
+像从四面八方生长出来的&lt;br /&gt;
+蘑菇&lt;br /&gt;
+我不是蘑菇&lt;br /&gt;
+我穿的雨衣&lt;/p&gt;
+
+&lt;h1 id=&quot;section-5&quot;&gt;变化&lt;/h1&gt;
+
+&lt;p&gt;牛哞哞同学终于更改了微信头像&lt;br /&gt;
+她从一张黑白照片&lt;br /&gt;
+换成了&lt;br /&gt;
+另一张&lt;br /&gt;
+黑白照片&lt;/p&gt;
+
+&lt;h1 id=&quot;section-6&quot;&gt;不是快闪&lt;/h1&gt;
+
+&lt;p&gt;刚才&lt;br /&gt;
+一家旧手机维修店&lt;br /&gt;
+门口的破音响&lt;br /&gt;
+放着林宥嘉的&lt;br /&gt;
+你是我的眼&lt;br /&gt;
+登登登登&lt;br /&gt;
+唱到了高潮&lt;br /&gt;
+于是正打这里经过的&lt;br /&gt;
+六个陌生人高声齐唱&lt;br /&gt;
+包括我&lt;/p&gt;
+
+&lt;h1 id=&quot;section-7&quot;&gt;保持节奏&lt;/h1&gt;
+
+&lt;p&gt;点的汤喝到一半&lt;br /&gt;
+菜还没上&lt;br /&gt;
+这个时候&lt;br /&gt;
+要停下来&lt;br /&gt;
+像播放进度在&lt;br /&gt;
+等待缓冲&lt;/p&gt;
+
+&lt;h1 id=&quot;section-8&quot;&gt;无题&lt;/h1&gt;
+
+&lt;p&gt;要！！！！！&lt;br /&gt;
+珍惜！！！！&lt;br /&gt;
+感叹号！！！&lt;br /&gt;
+每次重复！！&lt;br /&gt;
+都让它贬值！&lt;/p&gt;
+
+&lt;h1 id=&quot;section-9&quot;&gt;惨样&lt;/h1&gt;
+
+&lt;p&gt;拿着新水杯去上班&lt;br /&gt;
+地铁走廊&lt;br /&gt;
+蹲下系鞋带的时候&lt;br /&gt;
+杯子就随手&lt;br /&gt;
+搁在脚边&lt;/p&gt;
+
+&lt;p&gt;有人往里扔了一块钱&lt;/p&gt;
+
+&lt;h1 id=&quot;section-10&quot;&gt;失算2&lt;/h1&gt;
+
+&lt;p&gt;一年前&lt;br /&gt;
+第一次炒菜&lt;br /&gt;
+我的猫&lt;br /&gt;
+好奇极了&lt;br /&gt;
+慢慢的&lt;br /&gt;
+凑过去看&lt;br /&gt;
+摆动的火苗&lt;/p&gt;
+
+&lt;p&gt;烧掉半边胡子&lt;/p&gt;
+
+&lt;h1 id=&quot;section-11&quot;&gt;失算&lt;/h1&gt;
+
+&lt;p&gt;跟肉摊老板大战三百回合&lt;br /&gt;
+砍价两块&lt;br /&gt;
+自豪地&lt;br /&gt;
+付了钱&lt;br /&gt;
+高兴地&lt;br /&gt;
+跑回家&lt;/p&gt;
+
+&lt;p&gt;肉没拿&lt;/p&gt;
+
+&lt;h1 id=&quot;section-12&quot;&gt;失落&lt;/h1&gt;
+
+&lt;p&gt;在一张纸上&lt;br /&gt;
+写完几句话后&lt;br /&gt;
+找不到&lt;br /&gt;
+“居中对齐”按钮&lt;/p&gt;
+
+&lt;h1 id=&quot;section-13&quot;&gt;严肃&lt;/h1&gt;
+
+&lt;p&gt;上车后&lt;br /&gt;
+司机换了八次收音机频道&lt;br /&gt;
+客人解锁手机五十二次&lt;br /&gt;
+再无话&lt;/p&gt;
+
+&lt;p&gt;到了&lt;br /&gt;
+谢谢&lt;br /&gt;
+像默剧结束后的&lt;br /&gt;
+观众掌声&lt;/p&gt;
+
+&lt;h1 id=&quot;section-14&quot;&gt;规律&lt;/h1&gt;
+
+&lt;p&gt;早餐一根油条一碗粥&lt;br /&gt;
+给三块&lt;br /&gt;
+找两毛&lt;br /&gt;
+钢蹦&lt;br /&gt;
+星期六起床&lt;br /&gt;
+抖外套&lt;br /&gt;
+十枚硬币散落到&lt;br /&gt;
+更多的十枚硬币里&lt;/p&gt;
+
+&lt;h2 id=&quot;section-15&quot;&gt;还是精神病比较精神&lt;/h2&gt;
+
+&lt;p&gt;把短信铃声换成&lt;br /&gt;
+微波炉的“叮”一下后&lt;br /&gt;
+收到的每条短信&lt;br /&gt;
+都冒着热气&lt;br /&gt;
+还烫手&lt;/p&gt;
+
+&lt;h2 id=&quot;section-16&quot;&gt;三行战书&lt;/h2&gt;
+
+&lt;p&gt;拿砖头砸窗户叫你出来玩&lt;br /&gt;
+你举重队的爸爸&lt;br /&gt;
+追出来&lt;/p&gt;
+
+&lt;h2 id=&quot;section-17&quot;&gt;不对称&lt;/h2&gt;
+
+&lt;p&gt;在搜索引擎输入“西红柿”&lt;br /&gt;
+您是要找“西红柿炒鸡蛋”吗？&lt;br /&gt;
+在搜索引擎输入“鸡蛋”&lt;br /&gt;
+您要找的是“鸡蛋羹”“鸡蛋饼”“鸡蛋花”“鸡蛋灌饼“吗&lt;/p&gt;
+
+&lt;p&gt;显然&lt;br /&gt;
+鸡蛋不爱&lt;br /&gt;
+西红柿&lt;/p&gt;
+
+&lt;h2 id=&quot;section-18&quot;&gt;条件反射&lt;/h2&gt;
+
+&lt;p&gt;吃饭的时候&lt;br /&gt;
+在盘子里发现一只虫子&lt;br /&gt;
+但想到&lt;br /&gt;
+周围也没有什么人&lt;br /&gt;
+她就把嘴闭上&lt;br /&gt;
+没叫&lt;/p&gt;
+
+&lt;h2 id=&quot;section-19&quot;&gt;写实手法&lt;/h2&gt;
+
+&lt;p&gt;结婚的时候说&lt;br /&gt;
+银行卡余额是7位数&lt;br /&gt;
+结婚以后&lt;br /&gt;
+才知道&lt;br /&gt;
+小数点以后的数&lt;br /&gt;
+也算&lt;/p&gt;
+
+&lt;h2 id=&quot;section-20&quot;&gt;群众的眼睛是雪亮的&lt;/h2&gt;
+
+&lt;p&gt;工位上的王先生突然站起来&lt;br /&gt;
+高举双手&lt;br /&gt;
+像一个&lt;br /&gt;
+刚从吊环上着地的&lt;br /&gt;
+体操运动员&lt;/p&gt;
+
+&lt;p&gt;零分&lt;br /&gt;
+老板说&lt;/p&gt;
+
+&lt;h2 id=&quot;section-21&quot;&gt;请节约用纸&lt;/h2&gt;
+
+&lt;p&gt;如果鼻子是水龙头&lt;br /&gt;
+那么感冒时的鼻子&lt;br /&gt;
+就是水龙头&lt;br /&gt;
+没关&lt;/p&gt;
+
+&lt;h2 id=&quot;section-22&quot;&gt;下意识&lt;/h2&gt;
+
+&lt;p&gt;我的一个朋友&lt;br /&gt;
+睡觉的时候手机响了&lt;br /&gt;
+会下意识的扔出窗外&lt;br /&gt;
+摔坏了&lt;br /&gt;
+好多手机&lt;br /&gt;
+他的这个坏毛病&lt;br /&gt;
+在换了iPhone之后&lt;br /&gt;
+好了&lt;/p&gt;
+
+&lt;h2 id=&quot;section-23&quot;&gt;失效的牛顿第一运动定律&lt;/h2&gt;
+
+&lt;p&gt;四号线地铁急刹车&lt;br /&gt;
+车门处的两名男子&lt;br /&gt;
+因为惯性以外的东西&lt;br /&gt;
+抱在了一起&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 15:18:15 +0800</pubDate>
         <link>http://mindcrafts.co/interest/2016/01/12/poem.html</link>

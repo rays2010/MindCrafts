@@ -6,4 +6,4 @@ cover: "interest-design-cover.png"
 categories: interest
 ---
 
-照片
+![INTEREST-DESIGN](/img/interest-design.png)
