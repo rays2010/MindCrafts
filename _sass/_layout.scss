@@ -8,6 +8,7 @@
     border-bottom: 1px solid $grey-color-light;
     text-align: center;
     height: 500px;
+    width: 100%;
 
     .top{
         overflow: hidden;
@@ -95,7 +96,7 @@
             margin: 0 40px 0 0;
             list-style: none;
         }
-         a{
+        a{
             color: #fff;
             display: block;
             height: 100px;
@@ -156,6 +157,9 @@
         font-size: 0.75em;
         margin: 10px 0 0;
         color: #333;
+    }
+    ul{
+        margin: 0;
     }
     li{
         margin: 0 0 50px;
@@ -235,6 +239,12 @@
 .post-header {
     text-align: center;
     margin: 50px auto;
+    .line{
+        height: 1px;
+        width: 100px;
+        border-bottom: 1px dotted #ccc;
+        margin: 50px auto 0;
+    }
 }
 
 .post-title {
