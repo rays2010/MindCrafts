@@ -340,22 +340,20 @@ pre {
   color: #828282; }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  font-weight: 300; }
+  .post-content p {
+    margin: 30px 0; }
+  .post-content h1, .post-content h2, .post-content h3 {
+    font-weight: 400; }
+  .post-content h1 {
+    font-size: 30px; }
   .post-content h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-content h2 {
-        font-size: 28px; } }
+    font-size: 24px; }
   .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-content h3 {
-        font-size: 22px; } }
-  .post-content h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-content h4 {
-        font-size: 18px; } }
+    font-weight: 18px; }
+  .post-content li {
+    list-style-position: inside; }
 
 /**
  * Syntax highlighting styles

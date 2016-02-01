@@ -7,7 +7,7 @@ categories: product
 cover: "img/product-yinfu-cover.png"
 ---
 
-YINFU is helpful plaform base on network, user either ask for help or help othe people.
+YINFU is helpful plaform base on network, user either ask for help or help other people.
 
 音符是一个基于网络的心理互助平台，用户在这里既可以向别人求助，也可以以志愿者的身份帮助别人
 
